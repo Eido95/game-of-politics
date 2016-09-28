@@ -1,5 +1,9 @@
 # game-of-politics
 
+TODOs:
+Manage the project development (TODOs, considerations, ideas, etc...) using Trello project management software.
+
+Alternative project names to consider:
 Polispolice
 Game of Politicans
 Political
